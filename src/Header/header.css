@@ -1,0 +1,7 @@
+.header {
+  background-image: url('../img/gambar.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  text-align: center;
+}

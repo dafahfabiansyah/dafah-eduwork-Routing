@@ -1,0 +1,24 @@
+li {
+  list-style: none;
+}
+
+li a {
+  text-decoration: none;
+  color: #252525;
+  margin: 30px;
+}
+
+.navbar {
+  text-align: center;
+  position: sticky;
+  top: 0;
+  background: white;
+}
+
+.navbar ul li {
+  display: inline-block;
+}
+
+.navbar ul li :hover {
+  color: #ff69b4;
+}
