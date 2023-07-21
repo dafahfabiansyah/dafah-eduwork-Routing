@@ -1,5 +1,4 @@
 import React from 'react';
-import Navbar from '../../Navbar/Navbar';
 import Footer from '../../footer/footer';
 import Header from '../../Header/Header';
 import './Home.css';
@@ -7,7 +6,6 @@ import './Home.css';
 function Home() {
   return (
     <>
-      <Navbar />
       <Header />
       <div class="container">
         <div class="article">
